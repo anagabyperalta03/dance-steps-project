@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=";S817KTq[AosJ]f0L2D_" x="-74" y="-511"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_repeat_ext" id="In3RS;q_={Dl~yi40sUV"><value name="TIMES"><shadow type="math_whole_number" id="5AZ=I3g)XX*J^3g!N#;/"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="L%?Jf:(njN0}@X:(]G8~"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="7_A?wxCS}=U!_VD(%q1T"><value name="pause"><shadow type="timePicker" id="sq{#Ip#q*pzf#iT%F!?j"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="CN/7%Ys+%koQcq7j6ET:"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="gBfl4:@BFCg_BtIIq1)X"><value name="pause"><shadow type="timePicker" id="a1F49=]U~fTgtjO3h$9o"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="Q{1cl8S4/E1/Q!h`o`|l"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="?)$MWsW^u?w:7V~7y~+A"><value name="pause"><shadow type="timePicker" id="rAU6DjX0Z38;YNib{=(x"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="|mdbn`MSuL+XJg?Mud_+"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Th~wJS)VHedtK3JMBnNV"><value name="pause"><shadow type="timePicker" id="2g$Q=2yHL~XmepINj.,)"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_forever" id="B*r9A2y:U;JfFo:X_6!g" x="601" y="-114"></block><block type="pxt-on-start" id="s3igU5MTg9WYAF^:eySY" x="622" y="63"></block></xml>
